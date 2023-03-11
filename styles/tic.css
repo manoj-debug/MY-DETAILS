@@ -1,0 +1,25 @@
+
+.back{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 6%;
+}
+tr:hover{
+    color: #D2042D;
+}
+h1{
+    line-height: 3;
+    font-family: 'Montserrat', sans-serif;
+    color: #ee2690;
+}
+thead{
+    font-family: 'Montserrat', sans-serif;
+    color:#ee2690;
+   
+}
+
+h4{
+    font-family: 'Kanit', sans-serif;
+    font-size: 22px;
+    
+}

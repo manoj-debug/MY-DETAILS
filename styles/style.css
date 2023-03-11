@@ -1,0 +1,70 @@
+
+.back{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 3.5%;
+    
+
+    
+}
+
+#four{
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    color: #1092e9;
+    
+}
+.text{
+    color: white;
+    background-color:#ee2690;
+   
+}
+
+
+
+.text0{
+    color: #1092e9;
+    
+
+}
+#rail{
+    font-family: 'Kanit', sans-serif;
+    color: #1092e9;
+    font-size: 30px;
+   
+    
+}
+
+#contact{
+    line-height: 2;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    color: #1092e9;
+}
+
+.pad{
+    padding-left: 30000px;
+}
+.tic-img{
+    border-radius: 100%;
+    width: 170px;
+}
+.tic-text{
+    background-color: #ee2690;
+    font-family: 'Montserrat', sans-serif;
+}
+.rail-text{
+    background-color:#23afe3;
+    font-family: 'Montserrat', sans-serif;
+}
+.whatsapp{
+    width: 55px;
+}
+.IMG{
+    margin-top: 5%;
+}
+.us{
+    margin-top: 7%;
+}
+
+
